@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdoullahBougataya
 - 👀 I’m interested in rocket science
 - 🌱 I’m currently learning control and automation engineering
-- 💞️ I’m looking to collaborate on AI demo
+- 💞️ I’m looking to collaborate on rocket related stuff
 - 📫 Reach me via email: sience.story@gmail.com
 
 <!---
